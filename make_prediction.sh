@@ -26,5 +26,4 @@ curl -d '{
 }'\
      -H "Content-Type: application/json" \
     -X POST http://localhost:$PORT/predict
-   #  -X POST http://ec2-3-208-12-68.compute-1.amazonaws.com:$PORT/predict
      
